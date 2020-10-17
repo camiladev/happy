@@ -3,10 +3,10 @@
 </h1>
 
 <p align='center'>
-    <a href="#-tecnologias">Tecnologias</a>
+    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-projeto">Projeto</a>
     <a href="#-Next Level Week 3 - Trilha Omnistack">Next Level Week 3 - Trilha Omnistack</a>
-    <a href="#-milha">Milha Extra</a>
+    <a href="#-milhaextra">Milha Extra</a>
 </p>
 
 ## Tecnologias
