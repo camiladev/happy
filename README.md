@@ -4,12 +4,12 @@
 
 <p align='center'>
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-projeto">Projeto</a>
-    <a href="#-Next Level Week 3 - Trilha Omnistack">Next Level Week 3 - Trilha Omnistack</a>
-    <a href="#-milhaextra">Milha Extra</a>
+    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-next-level-week-3-->-trilha-omnistack">Next Level Week 3 - Trilha Omnistack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#milha-extra">Milha Extra</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -25,7 +25,7 @@ O Happy é uma aplicação que conecta pessoas as casas de acolhimento instituci
 
 Este projeto foi proposto pela equipe da Rocketseat durante a 3ª edição do Next Level Week que aconteceu na semana de 12 à 18 de Outubro de 2020.
 
-## Next Level Week 3 - Trilha Omnistack
+## 🚀 Next Level Week 3 - Trilha Omnistack
 
 Durante uma semana participei da trilha Omnistack, onde tive uma imersão 100% com muito código e muito conhecimento, durante as aulas foi passado noções de React e o uso de Hooks. 
 
